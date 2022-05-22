@@ -75,10 +75,16 @@ let boxes = 0
 while (parts <= 572){
     parts - 7; parts > 0;
     console.log(parts);
-}*/
+}
 let parts = 572;
 let capacity = 7;
 let boxes = 0;
 while (capacity <= parts){
     console.log(capacity)
 }
+let boxes = 0;
+
+while (boxes < 572){
+    console.log(boxes);
+    boxes+7;
+}*/
